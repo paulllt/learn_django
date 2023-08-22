@@ -1,0 +1,8 @@
+# ignore files in config directory
+config/
+
+# ignore Django settings
+settings.py
+
+# ignore files in venv directory
+venv/
